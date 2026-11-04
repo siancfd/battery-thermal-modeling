@@ -1,4 +1,4 @@
-# Battery Thermal Modeling: Key Papers Explained
+﻿# Battery Thermal Modeling: Key Papers Explained
 
 Short, readable Python notebooks that go with a LinkedIn series on battery thermal modeling. Each part picks one topic, explains the key paper behind it, and rebuilds the main idea in a few lines of code.
 
@@ -17,7 +17,7 @@ More parts will be added as the series goes on.
 ## Getting started
 
 ```bash
-git clone https://github.com/<siancfd@gmail.com>/battery-thermal-modeling.git
+git clone https://github.com/siancfd/battery-thermal-modeling.git
 cd battery-thermal-modeling
 pip install -r requirements.txt
 jupyter notebook
@@ -27,7 +27,7 @@ Then open a notebook in the `notebooks` folder and choose **Run All**. Figures a
 
 ## References
 
-1. T. Waldmann, M. Wilka, M. Kasper, M. Fleischhammer, M. Wohlfahrt-Mehrens, *Temperature dependent ageing mechanisms in Lithium-ion batteries – A Post-Mortem study*, Journal of Power Sources 262 (2014) 129–135. https://doi.org/10.1016/j.jpowsour.2014.03.112
+1. T. Waldmann, M. Wilka, M. Kasper, M. Fleischhammer, M. Wohlfahrt-Mehrens, *Temperature dependent ageing mechanisms in Lithium-ion batteries â€“ A Post-Mortem study*, Journal of Power Sources 262 (2014) 129â€“135. https://doi.org/10.1016/j.jpowsour.2014.03.112
 
 The papers themselves are not included in this repository. Please use the DOI links to access them.
 
